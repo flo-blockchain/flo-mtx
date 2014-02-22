@@ -5,7 +5,7 @@ Florincoin Multiple Transaction Protocol
 
 Why?
 ---
-There is a need for a method where applications can reliably write to the blockchain without incurring a fee. There is also the eventual problem of bloating the blockchain with data as well as UTXO bloat. The metacoin-mtx approach solves both problems by requiring an amount of Florin to be held in storage and used for each application.
+There is a need for a clearly defined method for applications to reliably write to the blockchain without incurring a fee. There is also the eventual problem of bloating the blockchain with data as well as UTXO bloat. The metacoin-mtx approach solves both problems by requiring an amount of Florin to be held in storage and used for each application.
 
 What?
 -----
